@@ -24,4 +24,4 @@ default: cout<<"Error!Input operator incorrect."<<endl;
 break;}
 return 0;
 }
-re
+
